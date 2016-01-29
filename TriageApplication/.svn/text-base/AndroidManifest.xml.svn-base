@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="triageapplication.activities"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="triageapplication.activities.LogInActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="triageapplication.activities.PatientActivity"
+            android:label="@string/title_activity_patient" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.AddVitalsActivity"
+            android:label="@string/title_activity_add_vitals" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.ListPatientsActivity"
+            android:label="@string/title_activity_list_patients" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.NewPatientActivity"
+            android:label="@string/title_activity_new_patient" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.HomeActivity"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.SuccessPatientAddActivity"
+            android:label="@string/title_activity_success_patient_add" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.ExperimentalActivity"
+            android:label="@string/title_activity_experimental" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.ShowVitalsActivity"
+            android:label="@string/title_activity_show_vitals" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.ShowPatientActivity"
+            android:label="@string/title_activity_show_patient" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.AddPrescriptionActivity"
+            android:label="@string/title_activity_add_prescription" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.ShowPatientRecordsActivity"
+            android:label="@string/title_activity_show_patient_records" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.PriorityQueueOfPatientsActivity"
+            android:label="@string/title_activity_priority_queue_of_patients" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.ShowPrescriptionsActivity"
+            android:label="@string/title_activity_show_prescriptions" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.LookUpRecordActivity"
+            android:label="@string/title_activity_look_up_record" >
+        </activity>
+        <activity
+            android:name="triageapplication.activities.ShowActivity"
+            android:label="@string/title_activity_show" >
+        </activity>
+    </application>
+
+</manifest>

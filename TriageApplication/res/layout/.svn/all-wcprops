@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc207-2013-09/group_0735/!svn/ver/308/PIII/TriageApplication/res/layout
+END
+activity_patient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/layout/activity_patient.xml
+END
+activity_show_prescriptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/csc207-2013-09/group_0735/!svn/ver/184/PIII/TriageApplication/res/layout/activity_show_prescriptions.xml
+END
+activity_success_patient_add.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/layout/activity_success_patient_add.xml
+END
+activity_show_patient_records.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/csc207-2013-09/group_0735/!svn/ver/184/PIII/TriageApplication/res/layout/activity_show_patient_records.xml
+END
+activity_look_up_record.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/csc207-2013-09/group_0735/!svn/ver/223/PIII/TriageApplication/res/layout/activity_look_up_record.xml
+END
+activity_log_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/csc207-2013-09/group_0735/!svn/ver/308/PIII/TriageApplication/res/layout/activity_log_in.xml
+END
+activity_home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/layout/activity_home.xml
+END
+activity_add_prescription.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/csc207-2013-09/group_0735/!svn/ver/225/PIII/TriageApplication/res/layout/activity_add_prescription.xml
+END
+activity_add_vitals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/layout/activity_add_vitals.xml
+END
+activity_new_patient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/layout/activity_new_patient.xml
+END
+activity_list_patients.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/layout/activity_list_patients.xml
+END
+activity_show_vitals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/layout/activity_show_vitals.xml
+END

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TriageApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="log_in">Log in</string>
+    <string name="textPasswordHint">Password</string>
+    <string name="textUsernameHint">Username</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="welcome">Welcome!</string>
+    <string name="title_activity_bad">BadActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_patient">Add a new patient</string>
+    <string name="record_vitals">Record vital signs</string>
+    <string name="title_activity_new_patient">NewPatientActivity</string>
+    <string name="name">Name</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="dob_hint">ddmmyy</string>
+    <string name="health_card_number">Health Card Number</string>
+    <string name="sign_in">Sign in patient</string>
+    <string name="get_vitals">Get past vital signs</string>
+    <string name="title_activity_list_of_patients">ListOfPatientsActivity</string>
+    <string name="title_activity_patient">PatientActivity</string>
+    <string name="title_activity_add_vitals">AddVitalsActivity</string>
+    <string name="add_vitals">Add Patients Vital Signs</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="diastolic">Diastolic</string>
+    <string name="systolic">Systolic</string>
+    <string name="temperature">Temperature</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="submit_vitals">Submit Vitals</string>
+    <string name="save_all_data">Save all collected data</string>
+    <string name="log_in_fail">You have failed to log in</string>
+    <string name="title_activity_success_patient_add">SuccessPatientAddActivity</string>
+    <string name="home">Home</string>
+    <string name="list_patients">List Patients</string>
+    <string name="title_activity_list_patients">ListPatientsActivity</string>
+    <string name="title_activity_list_patient">ListPatientActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="add_new_patient_btn">Add New Patient</string>
+    <string name="list_patients_btn">List Patients</string>
+    <string name="save_all_data_btn">Save all Collected data</string>
+    <string name="successful_add">The Patient has been successfully signed in.</string>
+    <string name="arrival_time">Arrival Time</string>
+    <string name="prescription">Prescription</string>
+    <string name="prescription_name">Prescription Name</string>
+    <string name="prescription_instructions">Prescription Instructions</string>
+    <string name="add_new_prescription">Add New Prescription</string>
+    <string name="show_vitals">Display Vital Signs</string>
+    <string name="show_patient_records">Display Patient\'s Records</string>
+    <string name="add_prescription">Record Prescription</string>
+    <string name="show_prescriptions">Display Prescription</string>
+
+    <string-array name="day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="month">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="year">
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2009</item>
+        <item>2008</item>
+        <item>2007</item>
+        <item>2006</item>
+        <item>2005</item>
+        <item>2004</item>
+        <item>2003</item>
+        <item>2002</item>
+        <item>2001</item>
+        <item>2000</item>
+        <item>1999</item>
+        <item>1998</item>
+        <item>1997</item>
+        <item>1996</item>
+        <item>1995</item>
+        <item>1994</item>
+        <item>1993</item>
+        <item>1992</item>
+        <item>1991</item>
+        <item>1990</item>
+        <item>1989</item>
+        <item>1988</item>
+        <item>1987</item>
+        <item>1986</item>
+        <item>1985</item>
+        <item>1984</item>
+        <item>1983</item>
+        <item>1982</item>
+        <item>1981</item>
+        <item>1980</item>
+        <item>1979</item>
+        <item>1978</item>
+        <item>1977</item>
+        <item>1976</item>
+        <item>1975</item>
+        <item>1974</item>
+        <item>1973</item>
+        <item>1972</item>
+        <item>1971</item>
+        <item>1970</item>
+        <item>1969</item>
+        <item>1968</item>
+        <item>1967</item>
+        <item>1966</item>
+        <item>1965</item>
+        <item>1964</item>
+        <item>1963</item>
+        <item>1962</item>
+        <item>1961</item>
+        <item>1960</item>
+        <item>1959</item>
+        <item>1958</item>
+        <item>1957</item>
+        <item>1956</item>
+        <item>1955</item>
+        <item>1954</item>
+        <item>1953</item>
+        <item>1952</item>
+        <item>1951</item>
+        <item>1950</item>
+        <item>1949</item>
+        <item>1948</item>
+        <item>1947</item>
+        <item>1946</item>
+        <item>1945</item>
+        <item>1944</item>
+        <item>1943</item>
+        <item>1942</item>
+        <item>1941</item>
+        <item>1940</item>
+        <item>1939</item>
+        <item>1938</item>
+        <item>1937</item>
+        <item>1936</item>
+        <item>1935</item>
+        <item>1934</item>
+        <item>1933</item>
+        <item>1932</item>
+        <item>1931</item>
+        <item>1930</item>
+        <item>1929</item>
+        <item>1929</item>
+        <item>1928</item>
+        <item>1927</item>
+        <item>1926</item>
+        <item>1925</item>
+        <item>1924</item>
+        <item>1923</item>
+        <item>1922</item>
+        <item>1921</item>
+        <item>1920</item>
+        <item>1919</item>
+        <item>1918</item>
+        <item>1917</item>
+        <item>1916</item>
+        <item>1915</item>
+        <item>1914</item>
+        <item>1913</item>
+        <item>1912</item>
+        <item>1911</item>
+        <item>1910</item>
+    </string-array>
+
+    <string name="look_up_record">Directory Search</string>
+    <string name="enter_hcn">Health Card Number</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enterUserName"> Enter your username</string>
+    <string name="enterPassword"> Enter your password</string>
+    <string name="login"> Login</string>
+    <string name="title_activity_experimental">ExperimentalActivity</string>
+    <string name="title_activity_show_vitals">ShowVitalsActivity</string>
+    <string name="title_activity_show_patient">ShowPatientActivity</string>
+    <string name="title_activity_add_prescription">AddPrescriptionActivity</string>
+    <string name="title_activity_show_patient_records">ShowPatientRecordsActivity</string>
+    <string name="title_activity_priority_queue_of_patients">PriorityQueueOfPatientsActivity</string>
+    <string name="title_activity_show_prescriptions">ShowPrescriptionsActivity</string>
+    <string name="title_activity_look_up_record">LookUpRecordActivity</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="welcome_show">Welcome, \t</string>
+    <string name="sign_in_patient">Sign in Patient</string>
+    <string name="list_all">List All Current Patients</string>
+    <string name="list_urgency">List Patients By Urgency</string>
+    <string name="look_up_record_show">Look Up Record</string>
+    <string name="save">Save All Collected Data</string>
+    <string name="incorrect_user">Please enter a correct username and password.</string>
+    <string name="invalid_hcn">Patient not in directory. Please enter a valid number.</string>
+    <string name="invalid_input">One or more of the fields is empty or contains and invalid character. Please fill them out correctly.</string>
+    <string name="not_seen">Patient has not been seen</string>
+    <string name="send_patient">Send Patient to Physician</string>
+    <string name="scroll_down">(Scroll down for more options)</string>
+    <string name="dob_show">Date of Birth:\t </string>
+    <string name="arrival_time_show">Arrival Time:\t </string>
+    <string name="time_seen">Time Seen by Physician:\t </string>
+    <string name="home_show">Home</string>
+    <string name="patient_back">Go to Patient</string>
+    
+</resources>

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc207-2013-09/group_0735/!svn/ver/290/PIII/TriageApplication/res/menu
+END
+new_patient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/menu/new_patient.xml
+END
+show.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/csc207-2013-09/group_0735/!svn/ver/290/PIII/TriageApplication/res/menu/show.xml
+END
+list_patients.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/menu/list_patients.xml
+END
+show_vitals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/menu/show_vitals.xml
+END
+patient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/menu/patient.xml
+END
+show_prescriptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/csc207-2013-09/group_0735/!svn/ver/184/PIII/TriageApplication/res/menu/show_prescriptions.xml
+END
+success_patient_add.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/menu/success_patient_add.xml
+END
+show_patient_records.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/csc207-2013-09/group_0735/!svn/ver/184/PIII/TriageApplication/res/menu/show_patient_records.xml
+END
+look_up_record.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/csc207-2013-09/group_0735/!svn/ver/204/PIII/TriageApplication/res/menu/look_up_record.xml
+END
+log_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/menu/log_in.xml
+END
+home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/menu/home.xml
+END
+add_prescription.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/csc207-2013-09/group_0735/!svn/ver/184/PIII/TriageApplication/res/menu/add_prescription.xml
+END
+add_vitals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/csc207-2013-09/group_0735/!svn/ver/163/PIII/TriageApplication/res/menu/add_vitals.xml
+END
